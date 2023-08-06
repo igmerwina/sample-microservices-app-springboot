@@ -22,6 +22,7 @@ Aplikasi terdiri dari 3 services:
 - `Param Service` --> Data parameter (get parameter)
 - `Ledger Service` --> Pencatatan transaksi (consumer kafka)
 - `Kafka & Zookeeper`
+
 Semua berjalan di lokal 
 
 
